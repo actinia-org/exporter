@@ -5,6 +5,8 @@
 # MODULE:       Actinia exporter
 # AUTHOR(S):    Soeren Gebbert
 #
+# Original source: https://github.com/mundialis/actinia_core/blob/master/scripts/exporter/
+#
 # PURPOSE:      Facilitates creation of raster MASK
 #
 # COPYRIGHT:    (C) 2018 by  Sören Gebbert and mundialis GmbH & Co. KG
